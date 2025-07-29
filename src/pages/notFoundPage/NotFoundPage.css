@@ -1,0 +1,13 @@
+.error-message {
+
+    color: rgb(94, 117, 185);
+    font-size: 40px;
+}
+
+.error-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
