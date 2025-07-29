@@ -7,14 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Build outputs
-frontend/dist/
-backend/build/
-
-# Node modules
-frontend/node_modules/
-backend/node_modules/
-
 node_modules
 dist
 dist-ssr
