@@ -13,7 +13,7 @@ backend/build/
 
 # Node modules
 frontend/node_modules/
-backend/node_modules/
+backend/node_modules/change
 
 node_modules
 dist
